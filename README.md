@@ -36,3 +36,8 @@ This project is an excellent example of how Excel can be used not only for basic
 •	Create dynamic and interactive dashboards
 •	Support data-driven decision making with clear visuals and metrics
 ```
+## 🖼️ Dashboard Preview
+
+![Screenshot 2025-05-12 230619](https://github.com/user-attachments/assets/b669d38e-3a95-4662-9d7b-b9575cdc9889)
+
+
